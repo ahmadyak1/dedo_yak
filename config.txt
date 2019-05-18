@@ -1,0 +1,6 @@
+owner=537489317787074564
+prefix=-
+game=Fire force
+stayinchannel=true
+songinstatus=false
+token=NTc5MzUwMzI2MzczNzc3NDE5.XOBgHg.IfAI1Ck-Ngp_HFVc8h6dFMAI1yk
