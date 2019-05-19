@@ -3,4 +3,5 @@ prefix=-
 game=Fire force
 stayinchannel=true
 songinstatus=false
-token=NTc5MzUwMzI2MzczNzc3NDE5.XOBgHg.IfAI1Ck-Ngp_HFVc8h6dFMAI1yk
+token=NTc5NDY3NTkxNjUxODE5NTYx.XOClYA.wUNWSONgnx8Y512WdlshUn_Hy8c
+
