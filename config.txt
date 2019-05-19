@@ -1,5 +1,5 @@
 owner=537489317787074564
-prefix=-
+prefix=>
 game=Fire force
 stayinchannel=true
 songinstatus=false
